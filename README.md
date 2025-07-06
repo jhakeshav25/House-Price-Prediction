@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="assets/banner.png" alt="House Price Prediction Banner" />
 </p>
@@ -104,9 +103,5 @@ Keshav Kumar Jha
 LinkedIn(https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/) 
 GitHub(https://github.com/jhakeshav25)
 
-
-
-=======
 # House-Price-Prediction
 🏠 Predict house prices using Linear Regression and data preprocessing (Kaggle dataset). Includes data cleaning, label encoding, feature engineering, and model evaluation.
->>>>>>> b7fecc62a9b887fd5e9705ab9a717cb224e49b20
