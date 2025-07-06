@@ -4,6 +4,9 @@
 **Project Type:** Data Preprocessing & Regression Modeling  
 **Source:** [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/jhakeshav25/House-Price-Prediction/blob/main/house_price_preprocessing.ipynb)
+
 ---
 
 ## 🎯 Objective
