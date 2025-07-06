@@ -22,7 +22,7 @@ Prepare the Ames Housing dataset for regression modeling by applying:
 ---
 
 ## 📁 Project Structure
-
+```
 House-Price-Prediction/
 ├── assets/
 │   └── banner.png
@@ -31,12 +31,14 @@ House-Price-Prediction/
 │   ├── test.csv
 │   ├── sample_submission.csv
 │   └── data_description.txt
-├── house_price_preprocessing.ipynb     # Main notebook
-├── submission.csv                      # Generated output (after model run)
-├── requirements.txt                    # Python dependencies
-├── .gitignore                          # Files to exclude from Git tracking
-├── LICENSE                             # MIT License
-└── README.md                           # Project documentation
+├── house_price_preprocessing.ipynb  # Main notebook
+├── submission.csv                   # Generated output (after model run)
+├── requirements.txt                # Python dependencies
+├── .gitignore                      # Files to exclude from Git tracking
+├── LICENSE                         # MIT License
+└── README.md                       # Project documentation
+
+```
 
 
 
@@ -98,10 +100,13 @@ House-Price-Prediction/
 ---
 
 ## 🙋‍♂️ Author
+```
 Keshav Kumar Jha
 📧 keshavkumarjha528@gmail.com
 LinkedIn(https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/) 
 GitHub(https://github.com/jhakeshav25)
+```
+---
 
 # House-Price-Prediction
 🏠 Predict house prices using Linear Regression and data preprocessing (Kaggle dataset). Includes data cleaning, label encoding, feature engineering, and model evaluation.
