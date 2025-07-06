@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 House Price Prediction
 
 **Project Type:** Data Preprocessing & Regression Modeling  
@@ -96,3 +97,7 @@ GitHub(https://github.com/jhakeshav25)
 
 
 
+=======
+# House-Price-Prediction
+🏠 Predict house prices using Linear Regression and data preprocessing (Kaggle dataset). Includes data cleaning, label encoding, feature engineering, and model evaluation.
+>>>>>>> b7fecc62a9b887fd5e9705ab9a717cb224e49b20
