@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<p align="center">
+  <img src="assets/banner.png" alt="House Price Prediction Banner" />
+</p>
 # 🏠 House Price Prediction
 
 **Project Type:** Data Preprocessing & Regression Modeling  
@@ -21,15 +24,21 @@ Prepare the Ames Housing dataset for regression modeling by applying:
 
 ## 📁 Project Structure
 
-house-price-prediction/
+House-Price-Prediction/
+├── assets/
+│   └── banner.png
 ├── data/
-│ ├── train.csv
-│ ├── test.csv
-│ ├── sample_submission.csv
-│ └── data_description.txt
-├── house_price_preprocessing.ipynb
-├── submission.csv (generated after model prediction)
-└── README.md
+│   ├── train.csv
+│   ├── test.csv
+│   ├── sample_submission.csv
+│   └── data_description.txt
+├── house_price_preprocessing.ipynb     # Main notebook
+├── submission.csv                      # Generated output (after model run)
+├── requirements.txt                    # Python dependencies
+├── .gitignore                          # Files to exclude from Git tracking
+├── LICENSE                             # MIT License
+└── README.md                           # Project documentation
+
 
 
 ---
@@ -79,16 +88,13 @@ house-price-prediction/
 4. 📄 **Generate Predictions**
 
    After running all cells, a file named `submission.csv` will be generated:
-   ```
    submission.csv
-   ```
-   This file is ready for **Kaggle submission**.
 
 ---
 
 ## 📎 Dataset Credit
 
-📊 Data provided by [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+📊 Data provided by Kaggle:House Prices - Advanced Regression Techniques(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 ---
 
