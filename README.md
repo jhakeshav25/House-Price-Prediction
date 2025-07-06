@@ -100,12 +100,13 @@ House-Price-Prediction/
 ---
 
 ## 🙋‍♂️ Author
-```
-Keshav Kumar Jha
-📧 keshavkumarjha528@gmail.com
-LinkedIn(https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/) 
-GitHub(https://github.com/jhakeshav25)
-```
+
+**Keshav Kumar Jha**  
+📧 [keshavkumarjha528@gmail.com](mailto:keshavkumarjha528@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/)  
+💻 [GitHub](https://github.com/jhakeshav25/)  
+📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/jhakeshav25/)  
+
 ---
 
 # House-Price-Prediction
